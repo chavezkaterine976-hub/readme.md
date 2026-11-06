@@ -1,75 +1,45 @@
 <div align="center">
 
-# 💖 ¡Hola! Bienvenidos a mi GitHub page.
+# 💖 ¡Hola! Soy Katherine Stephanie Chavez Robles
+
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3486125-2918522.png" width="250" alt="Avatar Web" />
+
+### 👩‍💻 Estudiante de Software & Apasionada por el Desarrollo Web
 
 </div>
+
+---
 
 ## 🌎 Acerca de mí
 
-Soy originaria de **Moncagua, San Miguel, El Salvador**. Actualmente, me encuentro estudiando **Segundo de Software** en **Nueva Guadalupe** y continuando mi formación en el mundo de la informática como estudiante de **Kodigo**.
+* 📅 **Fecha de nacimiento:** 22 de abril de 2009
+* 📌 **Ubicación:** Moncagua, San Miguel, El Salvador
+* 🎓 **Estudios actuales:** 2.° Año de Software en Nueva Guadalupe
+* 💻 **Formación continua:** Estudiante en Kodigo, El Salvador
+* 🚀 **Intereses:** Creación y diseño de páginas web interactivas
 
-## 🎓 Educación
+---
 
-* **Segundo de Software**  
-  Nueva Guadalupe
-* **Estudiante de Informática**  
-  Kodigo, El Salvador
-
-## 💻 Intereses tecnológicos
-
-Me gusta crear e investigar sobre el **Desarrollo Web** y el diseño de páginas interactivas.
-
-## 🤝 ¡Colaboremos!
-
-Te interesa implementar nuevos conocimientos te doy la bienvenida, si eres un entusiasta a conocer nuevos proyectos o simplemente te interesa saber más sobre mi trayectoria, estoy deseando conectar contigo y colaborar. ¡Creemos algo increíble juntos!
-
-<br>
+## 💻 Tecnologías que utilizo
 
 <div align="center">
-
-<!-- Tarjetas de estadísticas de GitHub -->
-<img src="https://github-readme-stats.vercel.app/api?username=chavezkatherine976-hub&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" width="400" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chavezkatherine976-hub&theme=tokyonight" alt="Racha de GitHub" width="400" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </div>
 
-<br>
-
-## 📁 Proyectos destacados
-
-### 🚀 [Mi Primer Proyecto Web]
-* **Descripción:** Sitio web interactivo enfocado en desarrollo e innovación.
-* **Tecnologías usadas:** HTML5, CSS3, JavaScript.
-
-<br>
+---
 
 ## 📬 Contacto
 
-¡Estoy abierta a nuevas oportunidades y colaboraciones! Puedes contactarme a través de:
+* ✉️ **Correo electrónico:** chavezcaterine976@gmail.com
+* 🤝 **Disponibilidad:** Abierta a aprender y colaborar en nuevos proyectos de desarrollo web.
 
-* 💼 **LinkedIn:** [Tu enlace de LinkedIn aquí]
-* ✉️ **Correo electrónico:** [Tu correo electrónico aquí]
-
-<br>
+---
 
 <div align="center">
 
-<!-- Ilustración estilo Pixel Art / Escritorio -->
-<img src="https://raw.githubusercontent.com/gist/assets/pixel-art-workspace.gif" alt="Ilustración" width="100%" />
-
-<br><br>
-
-<!-- Lenguajes e insignias tecnológicas -->
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
-
-<!-- Contador de visitas al perfil -->
-<img src="https://komarev.com/ghpvc/?username=chavezkatherine976-hub&color=green&style=flat-square&label=Profile+views" alt="Contador de visitas" />
+¡Gracias por visitar mi perfil! 🚀
 
 </div>
-
